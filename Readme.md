@@ -138,5 +138,5 @@ All tables follow **relational integrity** using **Primary Keys and Foreign Keys
 **Prakash G**  
 Aspiring Data Analyst | SQL & Database Enthusiast  
 
-📫 *Feel free to connect on LinkedIn <a href="https://linkedin.com/in/.prakashg23" target="_blank">Prakash G</a> and explore my other projects!*   
+📫 *Feel free to connect on LinkedIn <a href="https:/www.linkedin.com/in/prakashg23" target="_blank">Prakash G</a> and explore my other projects!*   
 
